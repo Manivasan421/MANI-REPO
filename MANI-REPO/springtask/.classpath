@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/ant-antlr-1.6.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/antlr-2.7.5H3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/asm.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/asm-attrs.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/cglib-2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/commons-beanutils.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/commons-dbcp.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/commons-digester.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/commons-lang.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/commons-lang-2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/commons-pool.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/commons-validator.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/dom4j-1.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/ehcache-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/hibernate3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/hsqldb.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/j2ee.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/jstl.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/jta.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/log4j-1.2.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/mysql-connector-java-5.0.4-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/spring.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/spring-hibernate.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/standard.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/struts.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/strutsspringhibernate.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/downloads/zip  files/strutsspringhibernate/strutsspringhibernate/WEB-INF/lib/xerces-2.6.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

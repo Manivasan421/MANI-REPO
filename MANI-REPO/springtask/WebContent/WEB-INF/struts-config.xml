@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.2//EN"
+          "http://jakarta.apache.org/struts/dtds/struts-config_1_2.dtd">
+
+<struts-config>
+    <form-beans>
+     <form-bean name="form" 
+      type="com.bean.form">
+    </form-bean>
+ </form-beans>
+<action-mappings>
+
+<action
+   path="/form" type="org.apache.struts.actions.ForwardAction" parameter="/index.jsp"/>
+        
+<action path="/date" scope="request" name="UserForm" type="com.bean.projectname">
+		</action>
+<action path="/getdetail" scope="request"  type="com.bean.projectdetails">
+		</action>
+<action path="/saveUser" type="com.bean.operationmethods" name="form" scope="request" validate="false" input="/pages/Input.jsp" parameter="submit">
+            <forward name="success" path="/index.jsp"/>
+           </action> 
+<action path="/saveUser" type="com.bean.operationmethods" name="form" scope="request" validate="false" input="/pages/Input.jsp" parameter="submit">
+            <forward name="success" path="/index.jsp"/>
+           </action> 
+<action path="/saveUser" type="com.bean.operationmethods" name="form" scope="request" validate="false" input="/pages/Input.jsp" parameter="submit">
+            <forward name="success" path="/index.jsp"/>
+           </action> 
+        
+</action-mappings>
+ </struts-config>
+
